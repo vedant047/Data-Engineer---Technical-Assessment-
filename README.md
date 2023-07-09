@@ -104,7 +104,3 @@ aggregated_data.write \
     .mode("append") \
     .save()
 ```
-
-Please note that this is just an outline, and you will need to fill in the specific details based on your chosen data store and Elasticsearch setup. Additionally, make sure to install the required libraries (e.g., Kafka, Spark, and Elasticsearch) before running the code.
-
-Remember to thoroughly test the code and make any necessary adjustments based on your specific environment and requirements.
